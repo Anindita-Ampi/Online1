@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Roll_201514076</string>
+    <string-array name="planets_array">
+        <item>CE </item>
+        <item>CSE</item>
+        <item>EECE</item>
+        <item>ME</item>
+        <item>ME</item>
+
+    </string-array>
+    <string-array name="planets_array2">
+        <item>Software Development </item>
+        <item>Object Oriented Programming</item>
+        <item>Algorithm</item>
+        <item>Data Structure</item>
+
+
+    </string-array>
+</resources>
+
